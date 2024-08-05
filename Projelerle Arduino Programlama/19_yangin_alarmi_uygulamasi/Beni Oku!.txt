@@ -1,3 +1,0 @@
-lm34 ısı sensörü olmadığı için devrede transistör(bc547) kullandım.
-Bu yüzden ekrana herhangi bir sıcaklık değeri bastırmadı.
-Ayrıca devrede kullanılan lcd ekran bende olmadığı için onu kullanmadım.

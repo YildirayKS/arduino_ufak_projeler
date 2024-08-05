@@ -1,1 +1,0 @@
-Renk sensörü (TCS230) olmadığı için devre oluşturamadım.

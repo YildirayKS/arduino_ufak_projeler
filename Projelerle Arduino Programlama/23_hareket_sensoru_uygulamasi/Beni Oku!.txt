@@ -1,1 +1,0 @@
-Hareket sensörü (hc-sr501) olmadığı için devre oluşturamadım.
