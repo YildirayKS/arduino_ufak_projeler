@@ -1,0 +1,2 @@
+Eğer potansiyometre fulldeyse led 2sn de bir yanıp sönüyor. 
+Eğer potansiyometre en düşükte ise led sürekli yanıyor.

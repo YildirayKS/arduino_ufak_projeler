@@ -1,0 +1,3 @@
+Potansiyometre en düşükteyken led belli bir süre yanıyor sonra sönüyor ve böyle devam ediyor.
+potansiyometre değeri arttıkça ledin yanma süresi kısalıyor ve daha hızlı yanıp sönüyor.
+Ayrıca potansiyometre değeri arttıkça buzzerdan daha hızlı ses çıkıyor.

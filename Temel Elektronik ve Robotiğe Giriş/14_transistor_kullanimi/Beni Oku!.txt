@@ -1,0 +1,2 @@
+Devrede kullanılan dirençlerden birisi 10 ohm'luk diğeri 330 ohm'luk.
+Devrede kullanılan transistör PNP transistördür.
